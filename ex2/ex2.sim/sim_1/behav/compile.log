@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ex2/ex2.srcs/sources_1/new/LED_CarLight.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LED_CarLight
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ex2/ex2.srcs/sources_1/new/anti_jitter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module anti_jitter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ex2/ex2.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ex2/ex2.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
